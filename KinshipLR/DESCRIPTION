@@ -1,0 +1,14 @@
+Package: KinshipLR
+Type: Package
+Title: Complex Paternity Testing Analysis Between Two Individuals
+Version: 0.1.0
+Authors@R: c(
+    person("Yuxin", "Guo", email = "guoyuxin@xjtu.edu.cn", role = c( "cre")),
+    person("Xingru", "Zhang", email = "OliviaCheung1412@hotmail.com", role = c("aut"))
+    )
+Description: Tools for complex parentage testing analysis including likelihood ratio calculations for various pedigree configurations.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+
